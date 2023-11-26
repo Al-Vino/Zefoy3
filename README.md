@@ -12,7 +12,7 @@ dasarr babi emang 💩
 * akun / vidio jangan di privat
 * jika masih gagal, kemungkinan website sedang maintenance !
 # Banner 💥
-
+<a href="https://ibb.co/R2VDH2R"><img src="https://i.ibb.co/TcFghc9/Screenshot-20231127-031319.png" alt="Screenshot-20231127-031319" border="0" /></a>
 # Instalation
 Download apk Termuxnya disini biar ngga eror🌟
 [Klik Disini](https://f-droid.org/repo/com.termux_118.apk)👈
